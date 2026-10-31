@@ -1,0 +1,8 @@
+{
+  "name": "Nivesha: Your Money, Your Way",
+  "description": "Living money model and personal finance coach featuring automated tax-loss harvesting, Indian Old vs New regime simulation, vernacular regional learning in 7 languages, contextual jargon breakdown, fractional alternative asset investing, and UPI spare change micro-rounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
